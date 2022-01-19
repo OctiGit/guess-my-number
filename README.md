@@ -4,4 +4,6 @@ Game that consists of guessing a hidden secret number between 1 and 20. The user
 
 The language learned in this course's project was JavaScript.
 
-This project was designed by my teacher Jonas Schmedtmann.
+This project was built by me, based on the online course The Complete JavaScript Course by professor Jonas Schmedtmann, who designed it and allowed me to use it for my personal learning and portfolio.
+
+[👉Click here to see the project! ❓](https://guess-my-number-course.netlify.app/)
